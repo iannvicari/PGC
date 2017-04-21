@@ -1,0 +1,6 @@
+1) Extrair os arquivos em um mesmo diretório
+2) Instalar o programa GingaGUI contido no arquivo compactado
+3) Abrir o player GingaGUI instalado
+4) Abrir a aba tools->preferences, e na opção screen size colocar o tamanho de acordo com a tela utilizada (recomendo 1280 x 720) e aplicar
+5) No GingaGUI abrir o arquivo extraído softwarePGC.ncl
+6) Para usar o software os comandos são realizados pelas setas do teclado e teclas f1(vermelho), f2(verde), f3(amarelo) e f4(azul)
